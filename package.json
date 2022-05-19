@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sammic297/re-re-entrancy/issues"
   },
-  "homepage": "https://github.com/sammic297/re-re-entrancy#readme"
+  "homepage": "https://github.com/sammic297/re-re-entrancy#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.5"
+  }
 }
