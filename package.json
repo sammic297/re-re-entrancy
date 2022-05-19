@@ -1,0 +1,20 @@
+{
+  "name": "re-re-entrancy",
+  "version": "1.0.0",
+  "description": "understanding how re-entrancy works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammic297/re-re-entrancy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammic297/re-re-entrancy/issues"
+  },
+  "homepage": "https://github.com/sammic297/re-re-entrancy#readme"
+}
